@@ -1,0 +1,14 @@
+demo/service/ExchangeValueService.java
+ demo.service.ExchangeValueService
+demo/model/endpoint/CurrencyConversionResponse.java
+ demo.model.endpoint.CurrencyConversionResponse
+demo/Application.java
+ demo.Application
+demo/model/ExchangeValue.java
+ demo.model.ExchangeValue
+demo/repository/ExchangeValueRepository.java
+ demo.repository.ExchangeValueRepository
+demo/service/ExchangeValueServiceImpl.java
+ demo.service.ExchangeValueServiceImpl
+demo/controller/ExchangeValueController.java
+ demo.controller.ExchangeValueController
